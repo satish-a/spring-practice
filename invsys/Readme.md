@@ -1,4 +1,4 @@
-As part of learning Spring framework, I started making a **[simple invoice application](https://github.com/SatishAb/invsys)** using Spring Framework components, Spring MVC, Spring Security, Spring data and various other tools like Query DSL, Maven, Ext JS/Charts, Cloud foundry to implement and deploy the application. Application is posted to **[github](https://github.com/SatishAb/invsys)** for your reference.  
+As part of learning Spring framework, I started making a **[simple invoice application](https://github.com/satish-a/practice/tree/master/invsys)** using Spring Framework components, Spring MVC, Spring Security, Spring data and various other tools like Query DSL, Maven, Ext JS/Charts, Cloud foundry to implement and deploy the application. Application is posted to **[github](https://github.com/satish-a/practice/tree/master/invsys)** for your reference.  
   
 Sample Invoice application allows, to create users/customers/vendors, create products, create purchase orders, create sales orders, and allows to display basic charts of sales/purchases over a period of time.  
 
